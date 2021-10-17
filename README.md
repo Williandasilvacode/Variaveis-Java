@@ -18,6 +18,6 @@
  armazena valores com dois estados: true(verdadeiro) ou False(falso).
 
  ### Declarando(criando) variáveis
- Para criar uma variáve, voce deve especificar o tipo e atribuir um valor a ela:
+ Para criar uma variável, voce deve especificar o tipo e atribuir um valor a ela:
 
 
