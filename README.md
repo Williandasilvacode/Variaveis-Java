@@ -81,6 +81,11 @@ Para declarar mais de uma varável do mesmo tipo, use uma lista separada por ví
             System.out.println(x + y + z);
         }
     }
+
+x recebe o valor: 5 <br>
+y recebe o valor: 6 <br>
+z recebe o valor: 50 <br>
+
 Resultado: 61
 
 
