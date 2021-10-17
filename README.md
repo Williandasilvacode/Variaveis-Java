@@ -62,5 +62,13 @@ Para valores numéricos, o caractere funciona como um operador matemático (obse
             System.out.println(x + y);  //imprime a soma de x + y
         }
     }
-Resultado; 10
+
+A partir do exemplo acima, voce pode esperar:
+
+x armazena o valor: 4
+y armazena o valor: 6
+
+Em seguida, usamos o println() método para exibir a soma de x + y, que é 10.
+
+
 
