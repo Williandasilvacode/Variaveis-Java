@@ -50,3 +50,17 @@ Voce também pode usar o caractere + para adicionar uma variável a outra variá
     }
 Resultado: Willian Silva
 
+
+Para valores numéricos, o caractere funciona como um operador matemático (observe que usamos 'int' variáveis (inteiras) aqui):
+
+#### Exemplo:
+
+    public class Ex001{
+        public static void main(String[] args) {
+            int x = 4;
+            int y = 6;
+            System.out.println(x + y);  //imprime o valor de x + y
+        }
+    }
+Resultado; 10
+

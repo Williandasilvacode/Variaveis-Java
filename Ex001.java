@@ -71,7 +71,7 @@ public class Ex001{
 
        //<---Variáveis de exibição----->
 
-    //Ex.
+    //Ex001
 
 
     /*
@@ -83,6 +83,9 @@ public class Ex001{
     }
     */
 
+    //Ex002:
+
+    /*
     public class Ex001{
         public static void main(String[] args) {
             String nome = "Willian ";
@@ -92,6 +95,16 @@ public class Ex001{
 
         }
     }
+    */
+
+    public class Ex001{
+        public static void main(String[] args) {
+            int x = 4;
+            int y = 6;
+            System.out.println(x + y);  //imprime o valor de x + y
+        }
+    }
+
 
 
 
