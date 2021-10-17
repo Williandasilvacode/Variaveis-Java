@@ -86,7 +86,8 @@ x recebe o valor: 5 <br>
 y recebe o valor: 6 <br>
 z recebe o valor: 50 <br>
 
-Resultado: 61
+Em seguida, usamos o println() método para exibir a soma de (x + y + z), que é 61.
+
 
 
 
