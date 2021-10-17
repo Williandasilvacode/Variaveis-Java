@@ -24,3 +24,11 @@
 O println() método é frequentimente usado para exibir variáveis.
 Para combinar texto e variável, use o caractere: +
 
+#### Exemplo:
+
+    public class Ex001{
+        public static void main(String[] args) {
+            String nome ="John";
+            System.out.println("Olá " + nome);
+        }
+    }

@@ -1,4 +1,6 @@
-      //<---- Exemplo de variável do tipo "String"----->
+import javax.print.event.PrintJobListener;
+
+//<---- Exemplo de variável do tipo "String"----->
 
 //crie uma variável chamada 'nome' do tipo "String" e atribua a ela o valor "John"
 
@@ -66,6 +68,18 @@ public class Ex001{
     }
 }
 */
+
+       //<---Variáveis de exibição----->
+
+    //Ex.
+
+    public class Ex001{
+        public static void main(String[] args) {
+            String nome ="John";
+            System.out.println("Olá " + nome);
+        }
+    }
+
 
 
 
