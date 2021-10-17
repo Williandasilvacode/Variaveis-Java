@@ -33,3 +33,20 @@ Para combinar texto e variável, use o caractere: +
         }
     }
 resultado: Olá John
+
+
+Voce também pode usar o caractere + para adicionar uma variável a outra variável:
+
+#### Exemplo:
+
+   public class Ex001{
+        public static void main(String[] args) {
+            String nome = "Willian ";
+            String SobreNome = "Silva";
+            String NomeCompleto = nome + SobreNome;
+            System.out.println(NomeCompleto);
+
+        }
+    }
+Resultado: Willian Silva
+
