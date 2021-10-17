@@ -32,3 +32,4 @@ Para combinar texto e variável, use o caractere: +
             System.out.println("Olá " + nome);
         }
     }
+resultado: Olá John
