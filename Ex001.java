@@ -73,13 +73,25 @@ public class Ex001{
 
     //Ex.
 
+
+    /*
     public class Ex001{
         public static void main(String[] args) {
             String nome ="John";
             System.out.println("Olá " + nome);
         }
     }
+    */
 
+    public class Ex001{
+        public static void main(String[] args) {
+            String nome = "Willian ";
+            String SobreNome = "Silva";
+            String NomeCompleto = nome + SobreNome;
+            System.out.println(NomeCompleto);
+
+        }
+    }
 
 
 
