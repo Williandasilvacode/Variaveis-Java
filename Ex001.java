@@ -96,7 +96,9 @@ public class Ex001{
         }
     }
     */
+    //Ex003
 
+    /*
     public class Ex001{
         public static void main(String[] args) {
             int x = 4;
@@ -104,6 +106,10 @@ public class Ex001{
             System.out.println(x + y);  //imprime o valor de x + y
         }
     }
+    */
+
+
+    
 
 
 
