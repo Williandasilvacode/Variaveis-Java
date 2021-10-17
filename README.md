@@ -20,7 +20,7 @@
  ### Declarando(criando) variáveis:
  Para criar uma variável, voce deve especificar o tipo e atribuir um valor a ela:
 
-## Variáveis de exibição:
+### Variáveis de exibição:
 O println() método é frequentimente usado para exibir variáveis.
 Para combinar texto e variável, use o caractere: +
 
@@ -69,6 +69,21 @@ x armazena o valor: 4 <br/>
 y armazena o valor: 6
 
 Em seguida, usamos o println() método para exibir a soma de x + y, que é 10.
+
+### Declare muitas Variáveis
+Para declarar mais de uma varável do mesmo tipo, use uma lista separada por vígulas:
+
+#### Exemplo:
+
+    public class Ex001{
+        public static void main(String[] args) {
+            int x = 5, y = 6, z = 50;
+            System.out.println(x + y + z);
+        }
+    }
+Resultado: 61
+
+
 
 
 
