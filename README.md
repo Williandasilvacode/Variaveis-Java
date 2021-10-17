@@ -17,7 +17,10 @@
  ### Boolean:
  armazena valores com dois estados: true(verdadeiro) ou False(falso).
 
- ### Declarando(criando) variáveis
+ ### Declarando(criando) variáveis:
  Para criar uma variável, voce deve especificar o tipo e atribuir um valor a ela:
 
+## Variáveis de exibição:
+O println() método é frequentimente usado para exibir variáveis.
+Para combinar texto e variável, use o caractere: +
 
